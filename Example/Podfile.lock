@@ -1,0 +1,16 @@
+PODS:
+  - DevtorImageExtension (0.1.0)
+
+DEPENDENCIES:
+  - DevtorImageExtension (from `../`)
+
+EXTERNAL SOURCES:
+  DevtorImageExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DevtorImageExtension: e0c32e9ae71ffc60a9b126039655f71aad633e74
+
+PODFILE CHECKSUM: 208ba19aac120911d26c8ab53396f26e82b2de75
+
+COCOAPODS: 1.7.1

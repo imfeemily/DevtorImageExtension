@@ -1,0 +1,6 @@
+framework module Pods_DevtorImageExtension_Tests {
+  umbrella header "Pods-DevtorImageExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
