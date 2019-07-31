@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DevtorImageExtension_Example' do
+  pod 'DevtorImageExtension', :path => '../'
+
+  target 'DevtorImageExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
