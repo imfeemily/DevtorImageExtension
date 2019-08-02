@@ -7,18 +7,19 @@
 //
 
 import UIKit
+import DevtorImageExtension
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var imageViewTest: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        imageViewTest.circleImageView(borderColor: .orange, borderWidth: 0.5)
+        imageViewTest.downloaded(from: "https://robohash.org/123.png", contentMode: .scaleToFill)
+        
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
+    
 }
 
