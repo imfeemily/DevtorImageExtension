@@ -1,15 +1,22 @@
 # DevtorImageExtension
 
-[![CI Status](https://img.shields.io/travis/Supakorn Thitivarangkool/DevtorImageExtension.svg?style=flat)](https://travis-ci.org/Supakorn Thitivarangkool/DevtorImageExtension)
-[![Version](https://img.shields.io/cocoapods/v/DevtorImageExtension.svg?style=flat)](https://cocoapods.org/pods/DevtorImageExtension)
-[![License](https://img.shields.io/cocoapods/l/DevtorImageExtension.svg?style=flat)](https://cocoapods.org/pods/DevtorImageExtension)
-[![Platform](https://img.shields.io/cocoapods/p/DevtorImageExtension.svg?style=flat)](https://cocoapods.org/pods/DevtorImageExtension)
+[![[CI Status](https://img.shields.io/travis/Supakorn Thitivarangkool/DevtorImageExtension.svg?style=for-the-badge&logo=appveyor)](https://travis-ci.org/Supakorn Thitivarangkool/DevtorImageExtension)
+[![Version](https://img.shields.io/cocoapods/v/DevtorImageExtension.svg?style=for-the-badge&logo=appveyor)](https://cocoapods.org/pods/DevtorImageExtension)
+[![License](https://img.shields.io/cocoapods/l/DevtorImageExtension.svg?style=for-the-badge&logo=appveyor)](https://cocoapods.org/pods/DevtorImageExtension)
+[![Platform](https://img.shields.io/cocoapods/p/DevtorImageExtension.svg?style=for-the-badge&logo=appveyor)](https://cocoapods.org/pods/DevtorImageExtension)
+
+DevtorImageExtension is a pure Swift library for Downloading and cacging images from web with UIImage extension included
+
+Enjoy!
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+* iOS 10.0+
+* Swift 4.0+
 
 ## Installation
 
@@ -22,7 +29,7 @@ pod 'DevtorImageExtension'
 
 ## Author
 
-Supakorn Thitivarangkool, ifeemily@gmail.com
+Feem.io
 
 ## License
 
