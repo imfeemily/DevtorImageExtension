@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DevtorImageExtension'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Easy to use and make a customization with UIImageView and UIImage'
   s.swift_versions   = '4.0'
 
